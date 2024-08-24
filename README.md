@@ -11,7 +11,7 @@ This repository covers a broad spectrum of algorithms organized into several cat
 ### 1. Sorting Algorithms
 
 - [x] **Bubble Sort**: Simple but inefficient; used mainly for educational purposes.</span>
-- [ ] **Merge Sort**: A divide-and-conquer algorithm; stable and efficient.
+- [x] **Merge Sort**: A divide-and-conquer algorithm; stable and efficient.
 - [ ] **Quick Sort**: Generally faster than merge sort but not stable.
 - [ ] **Insertion Sort**: Efficient for small datasets; often used in hybrid algorithms.
 - [ ] **Heap Sort**: Based on binary heap data structure; not stable but efficient.
