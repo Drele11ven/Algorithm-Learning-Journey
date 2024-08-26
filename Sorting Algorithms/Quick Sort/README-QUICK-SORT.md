@@ -2,13 +2,14 @@
 
 ## Introduction
 
-![Example Image](https://miro.medium.com/v2/resize:fit:1200/1*e-f1j1N3AIn5ZmS1uBWiKQ.png)
+![Example Image](https://www.geeksforgeeks.org/wp-content/uploads/gq/2014/01/QuickSort2.png)
 
 Quick Sort is a highly efficient sorting algorithm that uses a divide-and-conquer strategy to sort an array or list of elements. It is known for its fast performance on large datasets and works by selecting a 'pivot' element, partitioning the array around the pivot, and recursively sorting the subarrays.
 
 ## Origins and History
 
 ![this is Tony Hoare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sir_Tony_Hoare_IMG_5125.jpg/640px-Sir_Tony_Hoare_IMG_5125.jpg)
+
 The Quick Sort algorithm was developed by Tony Hoare in 1959. It has since become one of the most popular sorting algorithms due to its average-case efficiency of O(n log n) and its in-place sorting capability, which reduces memory usage. Despite its worst-case time complexity of O(n^2), Quick Sort is often faster in practice than other O(n log n) algorithms like Merge Sort, due to its efficient memory cache performance.
 
 ## Pseudocode
