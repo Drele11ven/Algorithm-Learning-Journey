@@ -8,7 +8,7 @@ Quick Sort is a highly efficient sorting algorithm that uses a divide-and-conque
 
 ## Origins and History
 
-![Tony Hoare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sir_Tony_Hoare_IMG_5125.jpg/640px-Sir_Tony_Hoare_IMG_5125.jpg)
+![this is Tony Hoare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sir_Tony_Hoare_IMG_5125.jpg/640px-Sir_Tony_Hoare_IMG_5125.jpg)
 The Quick Sort algorithm was developed by Tony Hoare in 1959. It has since become one of the most popular sorting algorithms due to its average-case efficiency of O(n log n) and its in-place sorting capability, which reduces memory usage. Despite its worst-case time complexity of O(n^2), Quick Sort is often faster in practice than other O(n log n) algorithms like Merge Sort, due to its efficient memory cache performance.
 
 ## Pseudocode
