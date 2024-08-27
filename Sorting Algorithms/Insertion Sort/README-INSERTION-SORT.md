@@ -8,7 +8,7 @@ Insertion Sort is a simple and intuitive sorting algorithm that builds the final
 
 ## Origins and History
 
-![John von Neumann](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/VonNeumann-Silhouette.png/640px-VonNeumann-Silhouette.png)
+![John von Neumann](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRnkovwhN-spU9mXPOF3_t3YdELneXPq7Wg&s)
 
 Though the specific origins of the Insertion Sort algorithm are unclear, the method is closely related to the concept of sequential processing, which has been a part of algorithmic thinking since the early days of computing. It is particularly useful in scenarios where small, mostly sorted arrays require fine-tuning.
 
