@@ -3,7 +3,7 @@ def insertion_sort(arr):
     Sorts an array in ascending order using the insertion sort algorithm.
     
     Parameters:
-    arr (list): A list of comparable elements (e.g., integers).
+    arr (list): A list of comparable elements (e.g., integers)
 
     Returns:
     list: A sorted list in ascending order.

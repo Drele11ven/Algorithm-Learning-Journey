@@ -4,7 +4,7 @@
 
 ![Example Image](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
 
-Insertion Sort is a simple and intuitive sorting algorithm that builds the final sorted array one element at a time. It is often compared to the way one might sort playing cards in their hands. While not the most efficient for large datasets, Insertion Sort is efficient for small datasets or mostly sorted arrays, with a time complexity of O(n^2) in the worst case.
+Insertion Sort is a simple and intuitive sorting algorithm that builds the final sorted array one element at a time. It is often compared to the way one might sort playing cards in their hands. While not the most efficient for large datasets, Insertion Sort is efficient for small datasets or mostly sorted arrays, with a time complexity of O(n^2) in the worst case...
 
 ## Origins and History
 
