@@ -8,7 +8,7 @@ Heap Sort builds a binary heap from the input data and then repeatedly extracts 
 
 ## Origins and History
 
-![J. W. J. Williams](https://upload.wikimedia.org/wikipedia/en/2/26/JWJWilliams.jpg)
+![J. W. J. Williams](https://cdn-otf-cas.prfct.cc/dfs1/eyJ3IjozMDAsImQiOjcyLCJtIjoiSlBHIiwidXJsIjoiaHR0cHM6XC9cL2FkYXMtb3JlZ29uLWNhcy1vYml0cy5zMy5hbWF6b25hd3MuY29tXC9waG90b3NcL2NyZWF0ZV9zdG9yeVwvNWIzYzIzNWYwNGVkNVwvYTc0NDU3YjM0ZTczNzQyOWFiOWNhNzk2YTkyNS5qcGcifQ==)
 
 Heap Sort was introduced by J. W. J. Williams in 1964 as a way to improve the selection sort's runtime efficiency. The algorithm utilizes a binary heap data structure, a concept central to efficient priority queue operations. Since its introduction, Heap Sort has been widely adopted for various applications, particularly where memory usage is a concern due to its in-place sorting capabilities.
 
