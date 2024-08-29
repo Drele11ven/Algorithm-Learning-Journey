@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![example image](https://www.boardinfinity.com/blog/content/images/2023/03/Counting-sort.png)
+
 Counting Sort is a non-comparison-based sorting algorithm that sorts elements by counting the occurrences of each unique value in the input data. It then uses this information to determine the position of each element in the sorted output. Unlike comparison-based sorting algorithms, Counting Sort has a time complexity of O(n + k), where `n` is the number of elements in the input array and `k` is the range of the input. This makes Counting Sort highly efficient for sorting data with a small range of integer keys. 
 
 Counting Sort is particularly well-suited for applications where the range of potential items in the input data is known and not significantly larger than the number of items to be sorted. However, it is not an in-place sorting algorithm, as it requires additional storage proportional to the range of the input data. Despite this, Counting Sort is stable and performs well when the range of the input data is not significantly greater than the number of elements.
