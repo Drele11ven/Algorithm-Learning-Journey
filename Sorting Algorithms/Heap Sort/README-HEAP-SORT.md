@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![Example Image](https://media.geeksforgeeks.org/wp-content/uploads/20230530092705/2-(1).webp)
+
 Heap Sort is an efficient comparison-based sorting algorithm that utilizes a binary heap data structure to sort elements. It is similar to the selection sort where we first find the maximum element and place it at the end of the array. The process is repeated for the remaining elements. Due to its O(n log n) time complexity in all cases (worst, average, and best), Heap Sort is particularly well-suited for large datasets. It is also an in-place sorting algorithm, meaning it does not require additional space for sorting.
 
 Heap Sort builds a binary heap from the input data and then repeatedly extracts the maximum (or minimum, depending on the heap type) element from the heap and reconstructs the heap until all elements are sorted.
