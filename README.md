@@ -16,7 +16,7 @@ This repository covers a broad spectrum of algorithms organized into several cat
 - [x] **Insertion Sort**: Efficient for small datasets; often used in hybrid algorithms.
 - [x] **Heap Sort**: Based on binary heap data structure; not stable but efficient.
 - [x] **Counting Sort**: Non-comparison sort; effective when input range is small.
-- [ ] **Radix Sort**: Non-comparative integer sorting algorithm; works well with large datasets.
+- [x] **Radix Sort**: Non-comparative integer sorting algorithm; works well with large datasets.
 
 ### 2. Searching Algorithms
 - [ ] **Binary Search**: Efficient for finding elements in sorted arrays.

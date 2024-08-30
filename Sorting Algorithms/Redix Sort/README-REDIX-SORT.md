@@ -8,7 +8,7 @@ Radix Sort is a non-comparative sorting algorithm that sorts numbers by processi
 
 ## Origins and History
 
-![Harold H. Seward](https://cache.legacy.net/legacy/images/cobrands/bostonglobe/photos/BG-2000629245-Harold_Seward.1_20120621.jpgx?w=600&h=315)
+![this is Harold H. Seward](https://cache.legacy.net/legacy/images/cobrands/bostonglobe/photos/BG-2000629245-Harold_Seward.1_20120621.jpgx?w=600&h=315)
 
 Radix Sort was first introduced by Harold H. Seward in 1954. Unlike comparison-based algorithms like Quick Sort or Merge Sort, Radix Sort leverages the numerical properties of the data to achieve linearithmic time complexity. It’s particularly useful in scenarios where the range of input data is known and manageable.
 
