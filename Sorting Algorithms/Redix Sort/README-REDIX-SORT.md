@@ -2,9 +2,13 @@
 
 ## Introduction
 
+![Example Image](https://i.sstatic.net/nm9Xg.png)
+
 Radix Sort is a non-comparative sorting algorithm that sorts numbers by processing individual digits. It uses the digits' place values to achieve sorting. Radix Sort processes numbers digit by digit, starting from the least significant digit (LSD) or the most significant digit (MSD), depending on the implementation. This method is particularly effective for sorting integers and can outperform comparison-based algorithms in certain cases.
 
 ## Origins and History
+
+![Harold H. Seward](https://cache.legacy.net/legacy/images/cobrands/bostonglobe/photos/BG-2000629245-Harold_Seward.1_20120621.jpgx?w=600&h=315)
 
 Radix Sort was first introduced by Harold H. Seward in 1954. Unlike comparison-based algorithms like Quick Sort or Merge Sort, Radix Sort leverages the numerical properties of the data to achieve linearithmic time complexity. It’s particularly useful in scenarios where the range of input data is known and manageable.
 
