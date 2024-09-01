@@ -4,13 +4,13 @@
 
 Binary Search is an efficient algorithm for finding a target value within a sorted array. It works by repeatedly dividing the search interval in half. If the target value is less than the item in the middle of the interval, the search continues on the lower half, or if it is greater, on the upper half. This process is continued until the target value is found or the interval is empty.
 
-![Binary Search Diagram]()
+![Binary Search Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNKUNZnSSEnlBG9lY-TJsRVBjd6eavy-nmfQ&s)
 
 ## Origins and History
 
-![John Mauchly]()
+Binary search, on the other hand, is an algorithm for finding an item in a sorted array or list, and it is typically attributed to the work of John Mauchly's contemporaries and predecessors in computer science. The binary search algorithm has its roots in early computational theory and algorithms, and while Mauchly contributed significantly to the development of computing machinery and programming, binary search itself was not his invention.
 
-Binary Search was first described by John Mauchly in 1946 as part of the ENIAC computer's design. It is an improvement over linear search algorithms, which are less efficient for large datasets. Binary Search leverages the fact that the array is sorted, allowing it to achieve a time complexity of O(log n), making it significantly faster than linear search algorithms.
+The binary search algorithm, as a concept, has been around for a long time and was used in various forms before modern computer science terminology and formalization. The specific origins of binary search are somewhat diffuse, as it builds on the mathematical principles of divide-and-conquer strategies. Binary Search leverages the fact that the array is sorted, allowing it to achieve a time complexity of O(log n), making it significantly faster than linear search algorithms.
 
 ## Pseudocode
 

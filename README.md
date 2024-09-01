@@ -19,7 +19,7 @@ This repository covers a broad spectrum of algorithms organized into several cat
 - [x] **Radix Sort**: Non-comparative integer sorting algorithm; works well with large datasets.
 
 ### 2. Searching Algorithms
-- [ ] **Binary Search**: Efficient for finding elements in sorted arrays.
+- [x] **Binary Search**: Efficient for finding elements in sorted arrays.
 - [ ] **Depth-First Search (DFS)**: Used for traversing or searching tree or graph data structures.
 - [ ] **Breadth-First Search (BFS)**: Finds the shortest path in unweighted graphs.
 - [ ] **Exponential Search**: Useful for unbounded or infinite lists; combines binary search with exponential growth.
